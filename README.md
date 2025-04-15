@@ -5,6 +5,9 @@ This repository demonstrates how to integrate the Reveal SDK with a Cube.dev RES
 1.  A **Node.js/Express server** that acts as the backend for the Reveal SDK, handling data source definition and authentication for a Cube.dev REST API.
 2.  A **simple HTML client** that embeds the Reveal SDK web component and configures it to use the Node.js server.
 
+## Video
+[![Video Title](https://img.youtube.com/vi/jVrhdWZA11o/hqdefault.jpg)](http://www.youtube.com/watch?v=jVrhdWZA11o)
+
 ## Features
 
 * Node.js backend implementation for Reveal SDK (`reveal-sdk-node`).
